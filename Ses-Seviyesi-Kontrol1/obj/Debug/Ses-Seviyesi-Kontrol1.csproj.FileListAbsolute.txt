@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\Ses-Seviyesi-Kontrol1\Ses-Seviyesi-Kontrol1\bin\Debug\Ses-Seviyesi-Kontrol1.exe.config
+C:\Users\User\source\repos\Ses-Seviyesi-Kontrol1\Ses-Seviyesi-Kontrol1\bin\Debug\Ses-Seviyesi-Kontrol1.exe
+C:\Users\User\source\repos\Ses-Seviyesi-Kontrol1\Ses-Seviyesi-Kontrol1\bin\Debug\Ses-Seviyesi-Kontrol1.pdb
+C:\Users\User\source\repos\Ses-Seviyesi-Kontrol1\Ses-Seviyesi-Kontrol1\obj\Debug\Ses-Seviyesi-Kontrol1.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Ses-Seviyesi-Kontrol1\Ses-Seviyesi-Kontrol1\obj\Debug\Ses-Seviyesi-Kontrol1.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\Ses-Seviyesi-Kontrol1\Ses-Seviyesi-Kontrol1\obj\Debug\Ses_Seviyesi_Kontrol1.Form1.resources
+C:\Users\User\source\repos\Ses-Seviyesi-Kontrol1\Ses-Seviyesi-Kontrol1\obj\Debug\Ses_Seviyesi_Kontrol1.Properties.Resources.resources
+C:\Users\User\source\repos\Ses-Seviyesi-Kontrol1\Ses-Seviyesi-Kontrol1\obj\Debug\Ses-Seviyesi-Kontrol1.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Ses-Seviyesi-Kontrol1\Ses-Seviyesi-Kontrol1\obj\Debug\Ses-Seviyesi-Kontrol1.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Ses-Seviyesi-Kontrol1\Ses-Seviyesi-Kontrol1\obj\Debug\Ses-Seviyesi-Kontrol1.exe
+C:\Users\User\source\repos\Ses-Seviyesi-Kontrol1\Ses-Seviyesi-Kontrol1\obj\Debug\Ses-Seviyesi-Kontrol1.pdb

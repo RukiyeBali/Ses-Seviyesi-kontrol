@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32901.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ses-Seviyesi-Kontrol1", "Ses-Seviyesi-Kontrol1\Ses-Seviyesi-Kontrol1.csproj", "{4891D2B6-39AD-4D1F-91A9-8D2C2068A644}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4891D2B6-39AD-4D1F-91A9-8D2C2068A644}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4891D2B6-39AD-4D1F-91A9-8D2C2068A644}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4891D2B6-39AD-4D1F-91A9-8D2C2068A644}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4891D2B6-39AD-4D1F-91A9-8D2C2068A644}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {212B7C81-546E-411E-91B0-481397AED6EB}
+	EndGlobalSection
+EndGlobal
